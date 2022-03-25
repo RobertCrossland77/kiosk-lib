@@ -1,6 +1,6 @@
 {
   "name": "kiosk-bl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "author": "Robert Crossland",
@@ -22,6 +22,7 @@
     "nodemon": "2.0.15",
     "ts-jest": "27.1.3",
     "ts-node": "10.7.0",
+    "kiosk-bl": "1.0.1",
     "typescript": "4.6.2"
   },
   "scripts": {
